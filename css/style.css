@@ -16,7 +16,7 @@ body {
 }
 .container {
   font-family: "digital-7", sans-serif;
-  font-size: 2rem;
+  font-size: 5rem;
   display: flex;
   width: 100vw;
   height: 100vh;
@@ -27,6 +27,6 @@ body {
 }
 .clock {
   border-radius: 50px;
-  border: 2px dashed;
+  border: 5px double;
   padding: 15px;
 }
